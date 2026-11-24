@@ -1,0 +1,2 @@
+# blog
+"Ummah Beacon blog"
